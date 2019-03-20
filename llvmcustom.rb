@@ -1,4 +1,4 @@
-class LlvmCustom < Formula
+class Llvmcustom < Formula
   desc "Next-gen compiler infrastructure"
   homepage "https://llvm.org/"
 
