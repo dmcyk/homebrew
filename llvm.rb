@@ -1,4 +1,4 @@
-class Llvm70 < Formula
+class Llvm < Formula
   desc "Next-gen compiler infrastructure"
   homepage "https://llvm.org/"
 
